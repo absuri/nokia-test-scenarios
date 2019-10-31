@@ -1,1 +1,0 @@
-# nokia-test-scenarios
